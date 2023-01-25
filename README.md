@@ -93,3 +93,6 @@ Contributions are welcome.
 ## License
 Code released under [The GNU General Public License](LICENSE).
 
+<a href="https://render.com/deploy?repo=https://github.com/raddoctor/Media-Search-bot">
+  <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
+</a>
